@@ -1,0 +1,8 @@
+logging:
+  level:
+    org:
+      binoj: DEBUG
+    root: INFO
+file:
+  server:
+    folder: /store    

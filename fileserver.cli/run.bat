@@ -1,0 +1,1 @@
+doskey fs-store=java -jar target\fileserver.cli-0.0.1-SNAPSHOT.jar

@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: FileServerCLI   
+  main:
+    web-application-type: NONE   
+    banner-mode: off
+logging:
+  level:
+    root: INFO
+    org: 
+     binoj: DEBUG
+server:
+  url: http://localhost:8080/files
